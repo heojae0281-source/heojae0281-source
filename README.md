@@ -25,13 +25,11 @@ $ cat interests.txt
 
 ### 🏆 Competitions
 
-| 대회 | 연도 | 결과 |
-|---|---|---|
-| 🏁 HL FMA 2026 (1/5 스케일카 자율주행) | 2026 | 🏆 **한라대학교 총장상** |
-| 🚦 Autorace | 2026 | 진행 중 |
-| 💾 SK하이닉스 AI Hackathon | 2026 | 진행 중 |
-| 🌊 SEA:ME Hackathon | 2026 | 참가 |
-| 🚗 제9회 국민대 자율주행 경진대회 | 2026 | 참가 |
+- 🏁 **HL FMA 2026** · 1/5 스케일카 자율주행 — 🏆 한라대학교 총장상
+- 🚦 **2026 Autorace** <sub>`진행 중`</sub>
+- 💾 **2026 SK하이닉스 AI Hackathon** <sub>`진행 중`</sub>
+- 🌊 **2026 SEA:ME Hackathon**
+- 🚗 **제9회 국민대 자율주행 경진대회** · 2026
 
 ---
 
