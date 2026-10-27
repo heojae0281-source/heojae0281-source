@@ -53,6 +53,12 @@ $ cat interests.txt
 
 ---
 
+### 📜 Certifications
+
+- 🎓 [**Google AI Professional Certificate**](https://coursera.org/verify/T6NWE84KFWZO) — Coursera · 2026
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
